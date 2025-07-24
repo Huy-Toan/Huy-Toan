@@ -1,4 +1,4 @@
-# Xin chào, mình là [Tên bạn]! 👋
+# Xin chào, mình là Nguyễn Huy Toàn! 👋
 
 Hiện tại mình là sinh viên năm cuối ngành Công nghệ Thông tin tại Trường Đại học Giao thông Vận tải TP. Hồ Chí Minh (UTH).  
 Định hướng phát triển thành Lập trình viên Fullstack, đặc biệt yêu thích phát triển Web và Ứng dụng Android.  
@@ -13,8 +13,8 @@ Mong muốn tìm kiếm cơ hội thực tập hoặc làm việc để áp dụ
 
 ## Dự án cá nhân
 - [Website Quản lý điểm sinh viên (Node.js)](https://github.com/Huy-Toan/student-grade)
-- [Website bán hàng (PHP/Laravel)](https://github.com/Huy-Toan/webbanhang)
-- [Ứng dụng Android đặt vé xe khách](https://github.com/Huy-Toan/ViwayApp)
+- [Website bán hàng (PHP)](https://github.com/Huy-Toan/webbanhang-php)
+- [Ứng dụng Android đặt vé xe khách (Java)](https://github.com/Huy-Toan/ViwayApp)
 
 ## Liên hệ với mình
 - Email: yourname@gmail.com   
